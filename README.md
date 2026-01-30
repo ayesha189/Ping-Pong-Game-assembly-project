@@ -507,22 +507,7 @@ Player 1 Score: 5    Player 2 Score: 3
 
 Contributions are welcome! Whether you're fixing bugs, adding features, or improving documentation.
 
-### How to Contribute
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes
-4. Test thoroughly in DOSBox
-5. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-6. Push to the branch (`git push origin feature/AmazingFeature`)
-7. Open a Pull Request
-
-### Coding Guidelines
-- **Comment your code**: Assembly needs good comments!
-- **Test in DOSBox**: Ensure compatibility
-- **Follow naming conventions**: Use descriptive labels
-- **Preserve registers**: Push/pop registers in subroutines
-- **Update documentation**: Keep README in sync with code
 
 ## 📄 License
 
@@ -572,13 +557,6 @@ Contributions are welcome! Whether you're fixing bugs, adding features, or impro
 - **Code Size**: ~800 lines
 - **Executable Size**: < 1 KB
 
----
-
-⭐ **If you enjoyed this retro gaming experience or learned from the code, please give it a star!**
-
-🏓 **Game On!** 🎮
-
----
 
 ## 📚 Resources
 
@@ -595,3 +573,11 @@ Contributions are welcome! Whether you're fixing bugs, adding features, or impro
 ### Game Development
 - [Classic Game Postmortem](https://www.youtube.com/watch?v=Pm-9X4FWPVw) - Pong History
 - [Retro Game Mechanics Explained](https://www.youtube.com/@RetroGameMechanicsExplained)
+
+---
+
+⭐ **If you enjoyed this retro gaming experience or learned from the code, please give it a star!**
+
+🏓 **Game On!** 🎮
+
+---
