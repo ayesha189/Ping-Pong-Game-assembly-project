@@ -405,21 +405,21 @@ delayLoop:
 
 ### Game Menu
 ```
-┌────────────────────────────────────────┐
-│  Game Menu:                            │
-│                                        │
-│  Player 1 -> Left   Player 2 -> Right │
-│                                        │
-│  1. Pressing w will move player1 up   │
-│  2. Pressing s will move player1 down │
-│  3. Pressing ↑ will move player2 up   │
-│  4. Pressing ↓ will move player2 down │
-│  5. Control transfers on each hit     │
-│  6. Ball touching left = Player 2 Wins│
-│  7. Ball touching right = Player 1 Wins│
-│                                        │
-│  Press Enter to start...              │
-└────────────────────────────────────────┘
+┌──────────────────────────────────────── ┐
+│  Game Menu:                             │
+│                                         │
+│  Player 1 -> Left   Player 2 -> Right   │
+│                                         │
+│  1. Pressing w will move player1 up     │
+│  2. Pressing s will move player1 down   │
+│  3. Pressing ↑ will move player2 up     │
+│  4. Pressing ↓ will move player2 down   │
+│  5. Control transfers on each hit       │
+│  6. Ball touching left = Player 2 Wins  │
+│  7. Ball touching right = Player 1 Wins │
+│                                         │
+│  Press Enter to start...                │
+└────────────────────────────────────────-┘
 ```
 
 ### Gameplay
@@ -442,12 +442,12 @@ Player 1 Score: 5    Player 2 Score: 3
 ```
 ┌────────────────────────────────────────┐
 │                                        │
-│      Player 1 Score: 12               │
-│      Player 2 Score: 10               │
+│      Player 1 Score: 12                │
+│      Player 2 Score: 10                │
 │                                        │
-│         Player 1 Wins!                │
+│         Player 1 Wins!                 │
 │                                        │
-│         GAME OVER!!!!                 │
+│         GAME OVER!!!!                  │
 │                                        │
 └────────────────────────────────────────┘
 ```
@@ -526,14 +526,12 @@ Contributions are welcome! Whether you're fixing bugs, adding features, or impro
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+-This project is created for educational purposes as part of a university course assignment.
 
 ## 👥 Authors
 
 **Team Members:**
-- **23f-0807** - [GitHub Profile]
-- **23F-0844** - [GitHub Profile]
-- **23f-0839** - [GitHub Profile]
+- **23f-0807** - [https://github.com/ayesha189]
 
 ## 🙏 Acknowledgments
 
@@ -550,8 +548,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Course**: Assembly Language Programming / Computer Organization  
 **Project Type**: Final Project  
-**Academic Term**: [Your Term/Year]  
-**Institution**: [Your University]
+
 
 ### Learning Outcomes Achieved
 ✅ x86 Assembly Language syntax and structure  
